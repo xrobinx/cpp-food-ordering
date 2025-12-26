@@ -1,0 +1,140 @@
+Order ID: 59| Table:1
+-----------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+    1           Chicken Burger         4      7.50       30.00
+-----------------------------------------------------------
+Total : RM 30.00
+Payment Method: Cash
+Change: RM170.00
+Order ID: 59| Table:1
+-----------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    5      7.50       37.50
+-----------------------------------------------------------
+Total : RM 37.50
+Payment Method: Cash
+Change: RM162.50
+Order ID: 59| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    3      7.50       22.50
+---------------------------------------------------------------
+Total : RM 22.50
+Payment Method: Cash
+Change: RM177.50
+Order ID: 59| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    5      7.50       37.50
+2    Pizza                             3      8.99       26.97
+3    Fried Rice                        3      6.00       18.00
+4    Coke                              4      2.00        8.00
+6    Beef Burger                       6      8.20       49.20
+7    Spaghetti Bolognese               4      9.50       38.00
+8    Grilled Chicken                   1     12.00       12.00
+9    Cheese Sandwich                   2      4.00        8.00
+10   French Fries                      1      3.00        3.00
+11   Orange Juice                      1      2.80        2.80
+12   Hot Dog                           1      5.50        5.50
+13   Chocolate Cake                    1      4.75        4.75
+14   Green Tea                         1      2.20        2.20
+15   Salad Bowl                        1      5.00        5.00
+16   Fish and Chips                    1     11.50       11.50
+17   BBQ Wings                         1      9.00        9.00
+18   Milkshake                         1      4.20        4.20
+19   Spring Rolls                      1      6.50        6.50
+20   Water Bottle                      1      1.50        1.50
+7    Spaghetti Bolognese               1      9.50        9.50
+---------------------------------------------------------------
+Total : RM 263.12
+Payment Method: Cash
+Change: RM236.88
+Order ID: 60| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    5      7.50       37.50
+---------------------------------------------------------------
+Total : RM 37.50
+Payment Method: Cash
+Change: RM162.50
+Order ID: 59| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    1      7.50        7.50
+---------------------------------------------------------------
+Total : RM 7.50
+Payment Method: Cash
+Change: RM192.50
+Order ID: 59| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+3    Fried Rice                        3      6.00       18.00
+---------------------------------------------------------------
+Total : RM 18.00
+Payment Method: Cash
+Change: RM182.00
+Order ID: 59| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    4      7.50       30.00
+---------------------------------------------------------------
+Total : RM 30.00
+Payment Method: Cash
+Change: RM10.00
+Order ID: 59| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    1      7.50        7.50
+---------------------------------------------------------------
+Total : RM 7.50
+Payment Method: Card
+Order ID: 59| Table:-1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                   10      7.50       75.00
+---------------------------------------------------------------
+Total : RM 75.00
+Payment Method: Cash
+Change: RM5.00
+Order ID: 59| Table:-1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    5      7.50       37.50
+20   Water Bottle                     30      1.50       45.00
+---------------------------------------------------------------
+Total : RM 82.50
+Payment Method: Card
+Order ID: 59| Table:1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+20   Water Bottle                     30      1.50       45.00
+---------------------------------------------------------------
+Total : RM 45.00
+Payment Method: Cash
+Change: RM55.00
+Order ID: 59| Table:2
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+1    Chicken Burger                    6      7.50       45.00
+16   Fish and Chips                    5     11.50       57.50
+---------------------------------------------------------------
+Total : RM 102.50
+Payment Method: Cash
+Change: RM0.08
+Order ID: 59| Table:-1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+20   Water Bottle                      5      1.50        7.50
+---------------------------------------------------------------
+Total : RM 7.50
+Payment Method: Card
+Order ID: 59| Table:-1
+---------------------------------------------------------------
+ID   Item                       Quantity     Price        Line
+17   BBQ Wings                         6      9.00       54.00
+18   Milkshake                        10      4.20       42.00
+18   Milkshake                         1      4.20        4.20
+---------------------------------------------------------------
+Total : RM 100.20
+Payment Method: Cash
+Change: RM0.80
